@@ -1,8 +1,9 @@
 (require 'color-theme)
+(require 'monokai-theme)
 (eval-after-load "color-theme"
   '(progn
      (color-theme-initialize)
-     (color-theme-ramangalahy)
+     ;(monokai)
      ))
 
 

@@ -4,3 +4,5 @@ auto-save-list/
 eshell/
 smex-items
 lisp/
+server/
+elpy-test.py

@@ -1,5 +1,5 @@
 ;; English font
-(set-face-attribute 'default nil :font "Courier New 8")
+(set-face-attribute 'default nil :font "Courier New 10")
 
 ;; Chinese font
 (dolist (charset '(kana han symbol cjk-misc bopomofo))
