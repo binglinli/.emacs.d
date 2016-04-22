@@ -36,3 +36,4 @@
 (require 'init-org)
 (require 'init-eshell)
 (require 'init-darkroom-mode)
+(require 'init-wb-line-number)
